@@ -1,0 +1,9 @@
+@charset "UTF-8";
+/* Layout Medium Screen*/
+.container{
+    position: absolute;
+    top:830px;
+    left:16%;
+    transform:translate(0%,0%);
+    background: color;
+}
